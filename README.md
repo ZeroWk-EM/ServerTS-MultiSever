@@ -14,7 +14,7 @@
    npm install
    ```
 
-3. Create `.env` file and set the required environment variables.
+3. Fill `.env` file with your openweathermap API KEY && PORT
 
    ```
    PORT=
