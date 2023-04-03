@@ -17,14 +17,13 @@
 3. Create `.env` file and set the required environment variables.
 
    ```
-  PORT=
-  OPEN_WEATHER_API_KEY=
-  OPEN_WEATHER_BASE_URL=https://api.openweathermap.org/data/2.5
-  RANDOM_USER_BASE_URL=https://randomuser.me/api/
+   PORT=
+   OPEN_WEATHER_API_KEY=
+   OPEN_WEATHER_BASE_URL=https://api.openweathermap.org/data/2.5
+   RANDOM_USER_BASE_URL=https://randomuser.me/api/
    ```
 
 4. Start the server:
    ```
    npm  start
    ```
-
